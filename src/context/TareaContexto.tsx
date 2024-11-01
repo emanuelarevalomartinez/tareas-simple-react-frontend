@@ -76,8 +76,7 @@ export const TareaContextoGlobal: React.FC<Props> = ({children}) => {
     
     
     setlistaTareas( listaTareas.map( (tarea)=> (tarea._id === id ? {...tarea,...tareaAtualizar}: tarea) ))
-  }
-
+  } 
     return(
         <TareaContexto.Provider 
         value={{
