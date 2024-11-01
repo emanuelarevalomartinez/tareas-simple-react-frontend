@@ -1,0 +1,3 @@
+
+
+export * from './tarea-interface'
