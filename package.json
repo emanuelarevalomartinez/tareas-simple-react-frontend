@@ -1,9 +1,11 @@
 {
-  "name": "primer-proyecto-react-typescript",
+  "name": "tareas-simple-react-frontend",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "description": "Frontend application for task management built with React, TypeScript, Vite, and TailwindCSS. Provides a dynamic UI for CRUD operations connected to a NestJS REST API.",
+  "author": "Emanuel Arévalo Martínez",
+  "license": "Apache-2.0",
   "type": "module",
-  "homepage": "https://emanuelarevalomartinez.github.io/tareas-simple-react-frontend",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
