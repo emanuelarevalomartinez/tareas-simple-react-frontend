@@ -1,6 +1,6 @@
 import { UseTareas } from "../context";
-import { TareaInterface } from "../interfaces/tarea-interface"
 import {IoCheckmarkDone,IoTrash} from 'react-icons/io5'
+import { TareaInterface } from "../interfaces";
 
 interface Props{
     tarea:TareaInterface;
