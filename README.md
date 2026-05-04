@@ -99,7 +99,7 @@ tareas-simple-react-frontend/
 Clone the repository:
 
 ```bash
-git clone https://github.com/emanuelarevalomartinez/tareas-simple-react-frontend
+git clone https://github.com/emanuelarevalomartinez/tareas-simple-react-frontend.git
 cd tareas-simple-react-frontend
 ```
 
